@@ -1,0 +1,300 @@
+[
+  {
+    "ts": "2025-08-29T05:57:06.232802+00:00",
+    "actor": "SYSTEM",
+    "action": "match_start",
+    "target": "competitive",
+    "meta": {
+      "mapId": "Lotus",
+      "matchId": "FAKE-721559"
+    }
+  },
+  {
+    "ts": "2025-08-29T05:57:54.232802+00:00",
+    "actor": "You",
+    "action": "plant",
+    "target": "Spike",
+    "meta": {
+      "roundNum": 1
+    }
+  },
+  {
+    "ts": "2025-08-29T05:58:00.232802+00:00",
+    "actor": "Teammate3",
+    "action": "kill",
+    "target": "Enemy1",
+    "meta": {
+      "weapon": "Judge",
+      "roundNum": 1
+    }
+  },
+  {
+    "ts": "2025-08-29T05:58:04.232802+00:00",
+    "actor": "Teammate4",
+    "action": "kill",
+    "target": "Enemy5",
+    "meta": {
+      "weapon": "Vandal",
+      "roundNum": 1
+    }
+  },
+  {
+    "ts": "2025-08-29T05:58:16.232802+00:00",
+    "actor": "Teammate2",
+    "action": "kill",
+    "target": "Enemy5",
+    "meta": {
+      "weapon": "Sheriff",
+      "roundNum": 1
+    }
+  },
+  {
+    "ts": "2025-08-29T05:58:28.232802+00:00",
+    "actor": "You",
+    "action": "kill",
+    "target": "Enemy2",
+    "meta": {
+      "weapon": "Marshal",
+      "roundNum": 1
+    }
+  },
+  {
+    "ts": "2025-08-29T05:58:39.232802+00:00",
+    "actor": "Enemy4",
+    "action": "defuse",
+    "target": "Spike",
+    "meta": {
+      "roundNum": 1
+    }
+  },
+  {
+    "ts": "2025-08-29T05:59:16.232802+00:00",
+    "actor": "Teammate1",
+    "action": "plant",
+    "target": "Spike",
+    "meta": {
+      "roundNum": 2
+    }
+  },
+  {
+    "ts": "2025-08-29T05:59:21.232802+00:00",
+    "actor": "You",
+    "action": "kill",
+    "target": "Enemy4",
+    "meta": {
+      "weapon": "Bulldog",
+      "roundNum": 2
+    }
+  },
+  {
+    "ts": "2025-08-29T05:59:28.232802+00:00",
+    "actor": "Teammate4",
+    "action": "kill",
+    "target": "Enemy5",
+    "meta": {
+      "weapon": "Sheriff",
+      "roundNum": 2
+    }
+  },
+  {
+    "ts": "2025-08-29T06:00:11.232802+00:00",
+    "actor": "Teammate4",
+    "action": "plant",
+    "target": "Spike",
+    "meta": {
+      "roundNum": 3
+    }
+  },
+  {
+    "ts": "2025-08-29T06:00:20.232802+00:00",
+    "actor": "Enemy5",
+    "action": "kill",
+    "target": "Teammate1",
+    "meta": {
+      "weapon": "Classic",
+      "roundNum": 3
+    }
+  },
+  {
+    "ts": "2025-08-29T06:00:32.232802+00:00",
+    "actor": "You",
+    "action": "kill",
+    "target": "Enemy3",
+    "meta": {
+      "weapon": "Ghost",
+      "roundNum": 3
+    }
+  },
+  {
+    "ts": "2025-08-29T06:01:15.232802+00:00",
+    "actor": "Teammate1",
+    "action": "plant",
+    "target": "Spike",
+    "meta": {
+      "roundNum": 4
+    }
+  },
+  {
+    "ts": "2025-08-29T06:01:27.232802+00:00",
+    "actor": "You",
+    "action": "kill",
+    "target": "Enemy4",
+    "meta": {
+      "weapon": "Classic",
+      "roundNum": 4
+    }
+  },
+  {
+    "ts": "2025-08-29T06:02:23.232802+00:00",
+    "actor": "Teammate2",
+    "action": "plant",
+    "target": "Spike",
+    "meta": {
+      "roundNum": 5
+    }
+  },
+  {
+    "ts": "2025-08-29T06:02:27.232802+00:00",
+    "actor": "You",
+    "action": "kill",
+    "target": "Enemy1",
+    "meta": {
+      "weapon": "Judge",
+      "roundNum": 5
+    }
+  },
+  {
+    "ts": "2025-08-29T06:02:35.232802+00:00",
+    "actor": "Enemy5",
+    "action": "kill",
+    "target": "Teammate1",
+    "meta": {
+      "weapon": "Phantom",
+      "roundNum": 5
+    }
+  },
+  {
+    "ts": "2025-08-29T06:02:44.232802+00:00",
+    "actor": "Teammate1",
+    "action": "kill",
+    "target": "Enemy3",
+    "meta": {
+      "weapon": "Spectre",
+      "roundNum": 5
+    }
+  },
+  {
+    "ts": "2025-08-29T06:03:49.232802+00:00",
+    "actor": "Teammate2",
+    "action": "plant",
+    "target": "Spike",
+    "meta": {
+      "roundNum": 6
+    }
+  },
+  {
+    "ts": "2025-08-29T06:03:53.232802+00:00",
+    "actor": "Enemy3",
+    "action": "kill",
+    "target": "Teammate1",
+    "meta": {
+      "weapon": "Sheriff",
+      "roundNum": 6
+    }
+  },
+  {
+    "ts": "2025-08-29T06:04:04.232802+00:00",
+    "actor": "Enemy2",
+    "action": "defuse",
+    "target": "Spike",
+    "meta": {
+      "roundNum": 6
+    }
+  },
+  {
+    "ts": "2025-08-29T06:04:43.232802+00:00",
+    "actor": "Teammate1",
+    "action": "kill",
+    "target": "Enemy4",
+    "meta": {
+      "weapon": "Phantom",
+      "roundNum": 7
+    }
+  },
+  {
+    "ts": "2025-08-29T06:04:48.232802+00:00",
+    "actor": "Teammate2",
+    "action": "kill",
+    "target": "Enemy3",
+    "meta": {
+      "weapon": "Bulldog",
+      "roundNum": 7
+    }
+  },
+  {
+    "ts": "2025-08-29T06:05:39.232802+00:00",
+    "actor": "Teammate3",
+    "action": "plant",
+    "target": "Spike",
+    "meta": {
+      "roundNum": 8
+    }
+  },
+  {
+    "ts": "2025-08-29T06:05:46.232802+00:00",
+    "actor": "Enemy3",
+    "action": "kill",
+    "target": "Teammate4",
+    "meta": {
+      "weapon": "Spectre",
+      "roundNum": 8
+    }
+  },
+  {
+    "ts": "2025-08-29T06:05:54.232802+00:00",
+    "actor": "Enemy2",
+    "action": "kill",
+    "target": "You",
+    "meta": {
+      "weapon": "Spectre",
+      "roundNum": 8
+    }
+  },
+  {
+    "ts": "2025-08-29T06:05:59.232802+00:00",
+    "actor": "Enemy5",
+    "action": "kill",
+    "target": "Teammate3",
+    "meta": {
+      "weapon": "Sheriff",
+      "roundNum": 8
+    }
+  },
+  {
+    "ts": "2025-08-29T06:06:10.232802+00:00",
+    "actor": "Enemy4",
+    "action": "defuse",
+    "target": "Spike",
+    "meta": {
+      "roundNum": 8
+    }
+  },
+  {
+    "ts": "2025-08-29T06:06:28.232802+00:00",
+    "actor": "SYSTEM",
+    "action": "match_end",
+    "target": "FAKE-721559",
+    "meta": {
+      "teams": [
+        {
+          "teamId": "Attackers",
+          "score": 4
+        },
+        {
+          "teamId": "Defenders",
+          "score": 4
+        }
+      ]
+    }
+  }
+]
